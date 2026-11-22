@@ -1,0 +1,20 @@
+.container {width: 90%; margin:0 auto;}
+	
+.banner { padding:2%; background-color:Black; text-align: center;
+		font-family: Tahoma, Verdana, sans-serif; color: Black;}
+		
+body { font-family: Tahoma, Verdana, sans-serif;	color: White; }
+		
+.nav ul { list-style-type: none; margin:0; padding:0; overflow:hidden; background-color:White; }
+		
+.nav li{ float:left; }
+			
+.nav li a { display:block; color: Black; text-align:center; padding: 14px 16px; text-decoration: none; }
+
+.nav li a:hover { background-color: Red; }
+		
+.footer { background-color: White; text-align: center; font-family: Tahoma, Verdana, sans-serif;	font-size:14px; padding: 15px 0px; color: Black;}
+
+.mainBody { list-style-type: none; margin:0; padding:0; overflow:hidden; background-color:Black; }
+
+

@@ -1,0 +1,70 @@
+<!Doctype html>
+<html>
+ <head>
+<link rel="icon" type="image/jpg" href="images/logo.jpg"/>
+<title> Unit 12 - Software Devlopment </title>
+<link rel="stylesheet" href="./style.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+	.header{
+		background-image: url("Unit12.jpg");
+		height:200px;
+	}
+	 </style>
+</head>
+
+	  
+ <body> 
+ <div class="header">
+		 <h1> Unit 12 - Software Development</h1>
+		 </div>
+		 
+	 <!-- This is the navigation section -->	
+	 <div class="nav">
+      <ul>
+         <li><a href="index.html">Home</a></li>
+		 <li><a href="About me.html">About me</a></li>
+         <li><a href="unit1and2.html">Unit 1 & 2</a></li>
+	     <li><a href="unit6.html">Unit 6</a></li>
+         <li><a href="unit10.html">Unit 10</a></li>
+         <li><a href="unit12.html">Unit 12</a></li>
+         <li><a href="unit14.html">Unit 14</a></li>
+         <li><a href="unit17.html">Unit 17</a></li>
+      </ul>
+   </div>
+   
+     <!-- This is the main body of the website -->
+     <div class="mainBody">
+	   <h1> Unit 12 Software Devlopment </h1>
+	  
+	  <h2>In this unit I learnt how to: </h2>
+	    <ol type="A">
+		    <li> Understand how to create a control table and action table</li>
+			<li> Understand how to create a flowchart</li>
+			<li> Design justify and review software development</li>
+		</ol>
+	  <h2>What did you enjoy about this unit?</h2>
+	  <p>I like how we design and create different kind of table,I also love how we use draw.io to create flowchart</p>
+	   
+    <h2> What improvements would you make if you did the unit again?</h2>
+    <p>I would make more detailed design that it would be easy to read and understand.</p>
+	
+	<h2>This is the control table I created for my project.</h2>
+	<img src="Capture.jpg" width="500px">
+	<h2>This is the variable table I created using powerpoint.</h2>
+	<img src="Variable.jpg"  width="500px">
+	<h2>This is the button table I created for my game.</h2>
+	<img src="Button.jpg" width="500px">
+
+	
+     <!-- remind me to add a picture in this section or an image gallery -->
+
+   </div>
+	<!-- This is the footer, the last section on the webpage-->
+     <div class="footer">
+	 (c)Designed by me!
+   </div>
+  <div>
+  </div>
+ </body>
+ </html>
